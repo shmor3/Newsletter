@@ -13,7 +13,7 @@ const theme = {
     black: "#2A2A28",
     gray: "#5A535E",
     lightGray: "#8A828F",
-    white: "#FFFFFF",
+    white: "#5E5E5E",
   },
   spacing: {
     xxs: "0.5rem",
