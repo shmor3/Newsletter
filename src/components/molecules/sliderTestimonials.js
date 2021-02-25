@@ -75,24 +75,24 @@ class SliderTestimonials extends React.Component {
           <Carousel>
             <Slider {...settings} ref={slider => (this.slider1 = slider)}>
               <SlideTestimonial
-                testimonial=" “Our entire process for building and launching websites that need toaccept payments has completely changed. We went from long arduous projects with tons of integrations and custom code, to a simple and fast setup with massive performance improvements.”"
-                name="Chance Curtis"
-                title="CTO, Some Ad Agency"
+                testimonial=" “Fill”"
+                name="fill"
+                title="fill x0"
               />
               <SlideTestimonial
-                testimonial=" “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.”"
-                name="Chance Curtis"
-                title="CTO, Some Ad Agency"
+                testimonial=" “fill”"
+                name="fill x1"
+                title="Fill x2"
               />
               <SlideTestimonial
-                testimonial=" “Lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.”"
-                name="Chance Curtis"
-                title="CTO, Some Ad Agency"
+                testimonial=" “fill”"
+                name="fill x2"
+                title="fill x3"
               />
               <SlideTestimonial
-                testimonial=" “It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.”"
-                name="Chance Curtis"
-                title="CTO, Some Ad Agency"
+                testimonial=" “fill”"
+                name="fill x3"
+                title="fill x4"
               />
             </Slider>
             <Slider
