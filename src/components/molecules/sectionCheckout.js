@@ -23,7 +23,7 @@ const SectionCheckout = () => {
     <Container content>
       <CheckoutContainer>
         <Content>
-          <h6>Checkout</h6>
+          <h6>Newsletter</h6>
           <h1>Subscribe</h1>
           <p>
           Enjoy your unlimited access to the newsletter, private telegram and member only resources.
