@@ -41,38 +41,6 @@ const IndexPage = () => {
   return (
     <Layout>
       <SEO title="Home" />
-      <ContentContainer content grid gridSplit>
-        <Image>
-          <Img fluid={data.moonclerk.childImageSharp.fluid} />
-        </Image>
-        <ContentBlock>
-          <Subheading>MoonClerk</Subheading>
-          <h2>
-            Start accepting recurring and one-time online payments in 5 minutes.
-          </h2>
-          <p>
-            No coding, merchant account, or hosting required. Create completely
-            customizable forms that can be embedded or shared anywhere. Automate
-            and integrate your processes with built-in tools and 3rd party
-            integrations.
-          </p>
-          <List>
-            <li>Send funds to your bank account automatically</li>
-            <li>Integrate with hundreds of third party providers</li>
-            <li>Take granular control of your payment process</li>
-            <li>Style the entire checkout process to match your brand</li>
-            <li>
-              Power up with extensions: Digital Delivery, Mailchimp Pro, etc...
-            </li>
-          </List>
-          <Button
-            href="https://moonclerk.com"
-            aria-label="Learn more about MoonClerk"
-          >
-            Learn More
-          </Button>
-        </ContentBlock>
-      </ContentContainer>
       <SectionCheckout />
     </Layout>
   )
