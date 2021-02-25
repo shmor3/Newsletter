@@ -11,34 +11,15 @@ const Footer = () => {
       <LogoContainer>
         <Logo />
       </LogoContainer>
-      <Info>
-        <Contact>
-          <a href="800.120.2132">Phone: 800-120-2132</a>
-          <a href="mailto:info@google.com">Email: hi@gatsbystarter.com</a>
-          <a href="https://icons8.com/">Illustrations Open Sourced by Icons8</a>
-        </Contact>
-        <Social>
-          <li>
-            <Link href="https://instagram.com">Instagram</Link>
-          </li>
-          <li>
-            <Link href="https://twitter.com">Twitter</Link>
-          </li>
-          <li>
-            <Link href="https://facebook.com">Facebook</Link>
-          </li>
-        </Social>
-      </Info>
-
       <Navigation>
         <li>
-          <Link href="https://instagram.com">MoonClerk</Link>
+          <Link href="mailto:restanford97@gmail.com">restanford@gmail.com</Link>
         </li>
         <li>
-          <Link href="https://twitter.com">Gatsby</Link>
+          <Link href="https://twitter.com//Robert_AndStuff">Twitter</Link>
         </li>
         <li>
-          <Link href="https://facebook.com">Stripe</Link>
+          <Link href="https://app.moonclerk.com/portal-settings/edit">Account</Link>
         </li>
       </Navigation>
       <LinkTop />
