@@ -35,7 +35,6 @@ const Layout = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <GlobalStyle />
-      <Navigation />
       <main>{children}</main>
       <Footer />
     </ThemeProvider>

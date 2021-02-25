@@ -1,9 +1,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import styled from "styled-components"
 import Layout from "@utils/layout"
 import SEO from "@utils/seo"
-import Container from "@atoms/container"
 import SectionCheckout from "@molecules/sectionCheckout"
 
 const IndexPage = () => {
