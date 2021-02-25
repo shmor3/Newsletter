@@ -9,10 +9,10 @@ const Footer = () => {
     <FooterContainer>
       <Navigation>
         <li>
-          <Link href="mailto:restanford97@gmail.com">Contact | </Link>
+          <Link href="mailto:restanford97@gmail.com">Contact<br/></Link>
         </li>
         <li>
-          <Link href="https://twitter.com//Robert_AndStuff">Twitter | </Link>
+          <Link href="https://twitter.com//Robert_AndStuff">Twitter<br/></Link>
         </li>
         <li>
           <Link href="https://app.moonclerk.com/portal-settings/edit">Login</Link>
@@ -26,8 +26,7 @@ const Footer = () => {
 export default Footer
 
 const FooterContainer = styled.footer`
-  align-items: center;
-  justify-content: center;
+  align-items: start;
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 1fr;
