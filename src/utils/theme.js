@@ -12,7 +12,7 @@ const theme = {
     heading: "#392D40",
     black: "#2A2A28",
     gray: "#5A535E",
-    lightGray: "5E5E5E",
+    lightGray: "#5E5E5E",
     white: "#FFFFFF",
   },
   spacing: {
