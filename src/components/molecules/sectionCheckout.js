@@ -24,7 +24,8 @@ const SectionCheckout = () => {
       <CheckoutContainer>
         <Content>
           <h6>Subscription</h6>
-          <h1>Paid Newsletter</h1>
+          <h2>AberStan LLC</h2>
+          <h3>Paid Newsletter</h3>
           <p>
           Enjoy your unlimited access to the newsletter, private telegram and member only resources.
           </p>
