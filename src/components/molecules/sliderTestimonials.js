@@ -75,24 +75,24 @@ class SliderTestimonials extends React.Component {
           <Carousel>
             <Slider {...settings} ref={slider => (this.slider1 = slider)}>
               <SlideTestimonial
-                testimonial=" “ ”"
-                name=" "
-                title=" "
+                testimonial=" “Fill a”"
+                name="fill x0"
+                title="fill x1"
               />
               <SlideTestimonial
-                testimonial=" “ ”"
-                name=" "
-                title=" "
+                testimonial=" “fill b”"
+                name="fill x1"
+                title="Fill x2"
               />
               <SlideTestimonial
-                testimonial=" “ ”"
-                name=" "
-                title=" "
+                testimonial=" “fill c”"
+                name="fill x2"
+                title="fill x3"
               />
               <SlideTestimonial
-                testimonial=" “ ”"
-                name=" "
-                title=" "
+                testimonial=" “fill d”"
+                name="fill x3"
+                title="fill x4"
               />
             </Slider>
             <Slider
