@@ -24,10 +24,9 @@ const SectionCheckout = () => {
       <CheckoutContainer>
         <Content>
           <h6>Checkout</h6>
-          <h1>Ready to start building the future?</h1>
+          <h1>Subscribe</h1>
           <p>
-            Build websites that quickly accept payments with future-proof
-            technology that runs lightning-fast globally.
+          Enjoy your unlimited access to the newsletter, private telegram and member only resources.
           </p>
           <Seperator />
           <SliderTestimonials />

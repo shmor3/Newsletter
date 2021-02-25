@@ -26,7 +26,8 @@ const Footer = () => {
 export default Footer
 
 const FooterContainer = styled.footer`
-  align-items: start;
+  align-items: center;
+  justify-content: center;
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 1fr;
