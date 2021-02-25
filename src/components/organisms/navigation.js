@@ -56,6 +56,7 @@ const Nav = styled.nav`
 `
 
 const NavLinks = styled.ul`
+  align-items: center;
   display: flex;
   justify-content: center;
   list-style: none;
