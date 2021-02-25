@@ -27,6 +27,7 @@ export default Footer
 
 const FooterContainer = styled.footer`
   align-items: center;
+  justify-content: center;
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 1fr;
@@ -40,6 +41,8 @@ const FooterContainer = styled.footer`
 `
 
 const Navigation = styled.ul`
+  align-items: center;
+  justify-content: center;
   display: flex;
   list-style: none;
   margin: 0;
