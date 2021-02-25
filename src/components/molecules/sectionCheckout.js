@@ -29,6 +29,7 @@ const SectionCheckout = () => {
           Enjoy your unlimited access to the newsletter, private telegram and member only resources.
           </p>
           <Seperator />
+          <SliderTestimonials />
         </Content>
         {/* PASTE MOONCLERK FORM HTML ID HERE */}
         <Form id="mc2dobl7zmzo2p" ref={scriptEl} />
