@@ -3,6 +3,7 @@ import { withPrefix } from "gatsby"
 import styled from "styled-components"
 import Seperator from "@assets/seperators/a-seperator-4.svg"
 import Container from "@atoms/container"
+import SliderTestimonials from "@molecules/sliderTestimonials"
 import { media } from "@utils/media"
 
 const SectionCheckout = () => {
@@ -29,6 +30,7 @@ const SectionCheckout = () => {
             technology that runs lightning-fast globally.
           </p>
           <Seperator />
+          <SliderTestimonials />
         </Content>
         {/* PASTE MOONCLERK FORM HTML ID HERE */}
         <Form id="mc2dobl7zmzo2p" ref={scriptEl} />
