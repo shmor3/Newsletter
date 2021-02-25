@@ -46,7 +46,7 @@ export default Navigation
 const Nav = styled.nav`
   align-items: center;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   padding: 2rem;
   position: absolute;
   top: 0;
@@ -57,7 +57,7 @@ const Nav = styled.nav`
 
 const NavLinks = styled.ul`
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   list-style: none;
   margin: 0;
   padding-left: 0;

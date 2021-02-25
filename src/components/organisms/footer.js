@@ -9,10 +9,10 @@ const Footer = () => {
     <FooterContainer>
       <Navigation>
         <li>
-          <Link href="mailto:restanford97@gmail.com">Contact<br/></Link>
+          <Link href="mailto:restanford97@gmail.com">Contact</Link>
         </li>
         <li>
-          <Link href="https://twitter.com//Robert_AndStuff">Twitter<br/></Link>
+          <Link href="https://twitter.com//Robert_AndStuff">Twitter</Link>
         </li>
         <li>
           <Link href="https://app.moonclerk.com/portal-settings/edit">Login</Link>
