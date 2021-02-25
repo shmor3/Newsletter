@@ -33,7 +33,6 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Subscibe" />
       <SectionCheckout />
     </Layout>
   )

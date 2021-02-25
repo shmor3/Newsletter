@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Newsletter`,
-    description: `paid newsletter`,
+    description: `Subscribe`,
     author: `shmor3`,
   },
   plugins: [
