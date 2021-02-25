@@ -10,7 +10,7 @@ const theme = {
     primary: "#F2BB63",
     secondary: "#F9F6F3",
     heading: "#392D40",
-    black: "#201C22",
+    black: "#5E5E5E",
     gray: "#5A535E",
     lightGray: "#8A828F",
     white: "#FFFFFF",
