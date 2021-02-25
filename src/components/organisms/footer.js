@@ -13,13 +13,13 @@ const Footer = () => {
       </LogoContainer>
       <Navigation>
         <li>
-          <Link href="mailto:restanford97@gmail.com">restanford@gmail.com</Link>
+          <Link href="mailto:restanford97@gmail.com">Contact | </Link>
         </li>
         <li>
-          <Link href="https://twitter.com//Robert_AndStuff">Twitter</Link>
+          <Link href="https://twitter.com//Robert_AndStuff">Twitter | </Link>
         </li>
         <li>
-          <Link href="https://app.moonclerk.com/portal-settings/edit">Account</Link>
+          <Link href="https://app.moonclerk.com/portal-settings/edit">Login</Link>
         </li>
       </Navigation>
       <LinkTop />
