@@ -47,7 +47,7 @@ const Nav = styled.nav`
   align-items: center;
   display: flex;
   justify-content: center;
-  padding: 2rem;
+  padding: .25rem;
   position: absolute;
   top: 0;
   width: 100vw;
