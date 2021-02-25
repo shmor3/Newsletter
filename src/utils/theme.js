@@ -7,13 +7,13 @@ const theme = {
     shadow: "",
   },
   colors: {
-    primary: "#F2BB63",
-    secondary: "#F9F6F3",
+    primary: "#5E5E5E",
+    secondary: "#5E5E5E",
     heading: "#392D40",
     black: "#2A2A28",
     gray: "#5A535E",
     lightGray: "#8A828F",
-    white: "#5E5E5E",
+    white: "#FFFFFF",
   },
   spacing: {
     xxs: "0.5rem",
