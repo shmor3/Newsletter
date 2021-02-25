@@ -9,7 +9,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import { ThemeProvider, createGlobalStyle } from "styled-components"
 import theme from "@utils/theme"
-import Navigation from "@organisms/navigation"
 import Footer from "@organisms/footer"
 import "./variables.css"
 
