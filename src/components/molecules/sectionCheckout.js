@@ -51,6 +51,8 @@ const CheckoutContainer = styled(Container)`
   flex-direction: column;
   max-width: 100%;
   grid-template-columns: var(--gridSplit);
+  align-items: center;
+  justify-content: center;
 
   @media ${media.lg} {
     flex-direction: row;
