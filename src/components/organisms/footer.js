@@ -18,6 +18,7 @@ const Footer = () => {
           <Link href="https://app.moonclerk.com/portal-settings/edit">Login</Link>
         </li>
       </Navigation>
+      <LinkTop />
     </FooterContainer>
   )
 }
