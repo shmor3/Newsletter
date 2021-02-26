@@ -31,7 +31,6 @@ const FooterContainer = styled.footer`
   display: grid;
   grid-template-columns: 1fr;
   margin: 0 var(--spacingContent);
-  padding-bottom: var(--spacingFooter);
   padding-top: 10px;
   position: relative;
   text-align: center;
