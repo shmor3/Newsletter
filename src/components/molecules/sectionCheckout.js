@@ -30,6 +30,7 @@ const SectionCheckout = () => {
           </p>
           <Seperator />
           <SliderTestimonials />
+          <Footer />
         </Content>
         {/* PASTE MOONCLERK FORM HTML ID HERE */}
         <Form id="mc2dobl7zmzo2p" ref={scriptEl} />
