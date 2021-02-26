@@ -9,7 +9,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import { ThemeProvider, createGlobalStyle } from "styled-components"
 import theme from "@utils/theme"
-import Footer from "@organisms/footer"
 import "./variables.css"
 
 const GlobalStyle = createGlobalStyle`

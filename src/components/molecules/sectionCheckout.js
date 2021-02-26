@@ -5,6 +5,8 @@ import Seperator from "@assets/seperators/a-seperator-4.svg"
 import Container from "@atoms/container"
 import SliderTestimonials from "@molecules/sliderTestimonials"
 import { media } from "@utils/media"
+import Footer from "@organisms/footer"
+
 
 const SectionCheckout = () => {
   const [loaded, setLoaded] = useState(false)
