@@ -17,6 +17,7 @@ export default SlideTestimonial
 
 const Testimonial = styled.div`
   box-sizing: border-box;
+  padding-bottom: 1rem;
 `
 
 const Content = styled.p`
