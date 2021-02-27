@@ -76,21 +76,21 @@ class SliderTestimonials extends React.Component {
             <Slider {...settings} ref={slider => (this.slider1 = slider)}>
               <SlideTestimonial
                 testimonial=" - "
-                name="Newsletter Access"
+                name="Paid Newsletter Access"
                 title=" - "
               />
               <SlideTestimonial
                 testimonial=" - "
-                name="Private Telegram"
+                name="Private Telegram Invite"
                 title=" - "
               />
               <SlideTestimonial
                 testimonial=" - "
-                name="Memebers Only Resources"
+                name="Members Only Resources"
                 title=" - "
               />
               <SlideTestimonial
-                testimonial=" - "
+                testimonial="Discounted Services and Special Offers"
                 name=" - "
                 title=" - "
               />
