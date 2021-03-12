@@ -90,8 +90,8 @@ class SliderTestimonials extends React.Component {
                 title=" - "
               />
               <SlideTestimonial
-                testimonial="Discounted Services & Offers"
-                name=" - "
+                testimonial=" - "
+                name="Discounted Services and Offers"
                 title=" - "
               />
             </Slider>
