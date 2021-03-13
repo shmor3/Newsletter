@@ -72,14 +72,20 @@ const Content = styled.div`
     letter-spacing: 3px;
     margin-bottom: 1rem;
     text-transform: uppercase;
+    align-items: top;
+
   }
 
   h1 {
     color: ${props => props.theme.colors.white};
+    align-items: top;
+
   }
 
   p {
     color: ${props => props.theme.colors.lightGray};
+    align-items: top;
+
   }
 `
 
