@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
 import Link from "@atoms/link"
-import LinkTop from "@atoms/linkTop"
 import { media } from "@utils/media"
 
 const Footer = () => {
@@ -15,7 +14,7 @@ const Footer = () => {
           <Link href="https://twitter.com//Robert_AndStuff">Twitter</Link>
         </li>
         <li>
-          <Link href="https://app.moonclerk.com/portal-settings/edit">Login</Link>
+          <Link href="https://app.moonclerk.com/portal-settings/edit">Account</Link>
         </li>
       </Navigation>
     </FooterContainer>
