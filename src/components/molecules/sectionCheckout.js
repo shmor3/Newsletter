@@ -64,7 +64,7 @@ const Content = styled.div`
   width: 100%;
 
   @media ${media.lg} {
-    width: 50%;
+    width: 55%;
   }
 
   h6 {
